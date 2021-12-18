@@ -19,6 +19,7 @@ useEffect(() => {
 	});
 	}, []);
 
+	
 const DataTable = () => {
 
 	return students.map((res, i) => {
